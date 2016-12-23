@@ -12,8 +12,7 @@ import me.sandlz.dblite.db.ex.DbException;
  */
 public class UserDao {
 
-    public void  UserDao() {
-
+    public UserDao() {
     }
 
     /*########################## 增 ##########################*/

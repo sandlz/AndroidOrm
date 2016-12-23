@@ -27,25 +27,25 @@
             android:id="@+id/db_add"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="增"/>
+            android:text="add"/>
         <Button
             android:id="@+id/db_delete"
             android:layout_below="@id/db_add"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="删"/>
+            android:text="delete"/>
         <Button
             android:id="@+id/db_update"
             android:layout_below="@id/db_delete"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="改"/>
+            android:text="update"/>
         <Button
             android:id="@+id/db_query"
             android:layout_below="@id/db_update"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="查"/>
+            android:text="query"/>
     </RelativeLayout>
 
     <android.support.v7.widget.RecyclerView

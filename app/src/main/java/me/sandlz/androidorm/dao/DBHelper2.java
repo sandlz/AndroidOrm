@@ -49,7 +49,7 @@ public class DBHelper2 {
             }
 
             DbManager.DaoConfig daoConfig = new DbManager.DaoConfig()
-                    .setDbName("LuShan2_MSG.sqlite.db")
+                    .setDbName("test.sqlite.db")
                     // 不设置dbDir时, 默认存储在app的私有目录.
                     .setDbDir(new File("/sdcard/sandlz"))
                     .setDbVersion(1)
@@ -63,7 +63,7 @@ public class DBHelper2 {
                     .setDbUpgradeListener(new DbManager.DbUpgradeListener() {
                         @Override
                         public void onUpgrade(DbManager db, int oldVersion, int newVersion) {
-                            // TODO: ...
+                            // TODO: 可执行一些操作 如删除、更新表等
                             // db.addColumn(...);
                             // db.dropTable(...);
                             // ...
