@@ -9,10 +9,10 @@ Please refer to app project to see more.
 ## ScreenShot
 
 <div>    
-<img align="left" src="http://7xsap2.com1.z0.glb.clouddn.com/dblite_add.png" width = "423" height = "702" alt="图片名称" align=center />
-<img align="right" src="http://7xsap2.com1.z0.glb.clouddn.com/dblite_delete.png" width = "423" height = "702" alt="图片名称" align=center />
+<img align="left" src="http://7xsap2.com1.z0.glb.clouddn.com/dblite_add.png" width = "423" height = "702" />
+<img align="right" src="http://7xsap2.com1.z0.glb.clouddn.com/dblite_delete.png" width = "423" height = "702" />
 </div>
 <div>    
-<img align="left" src="http://7xsap2.com1.z0.glb.clouddn.com/dblite_update.png" width = "423" height = "702" alt="图片名称" align=center />
-<img align="right" src="http://7xsap2.com1.z0.glb.clouddn.com/dblite_query.png" width = "423" height = "702" alt="图片名称" align=center />
+<img align="left" src="http://7xsap2.com1.z0.glb.clouddn.com/dblite_update.png" width = "423" height = "702"  />
+<img align="right" src="http://7xsap2.com1.z0.glb.clouddn.com/dblite_query.png" width = "423" height = "702" />
 </div>
