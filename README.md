@@ -8,6 +8,11 @@ It'refer to swyouflf's xutils, thank swyouflf's offertory.
 
 ## Usage
 
+Gradle
+```
+compile 'me.sandlz:dblite:1.0.2'
+```
+
 Please refer to app project to see more.
 
 ## ScreenShot
