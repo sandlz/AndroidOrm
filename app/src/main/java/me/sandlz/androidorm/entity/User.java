@@ -1,7 +1,7 @@
 package me.sandlz.androidorm.entity;
 
-import me.sandlz.dblibrary.db.annotation.Column;
-import me.sandlz.dblibrary.db.annotation.Table;
+import me.sandlz.dblite.db.annotation.Column;
+import me.sandlz.dblite.db.annotation.Table;
 
 /**
  * Created by liuzhu on 2016/12/23.

@@ -3,7 +3,7 @@ package me.sandlz.androidorm.app;
 import android.app.Application;
 
 import me.sandlz.androidorm.dao.DBHelper2;
-import me.sandlz.dblibrary.DbLite;
+import me.sandlz.dblite.DbLite;
 
 /**
  * Created by liuzhu on 2016/12/23.

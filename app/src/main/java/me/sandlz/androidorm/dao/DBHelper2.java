@@ -4,8 +4,8 @@ import android.content.Context;
 
 import java.io.File;
 
-import me.sandlz.dblibrary.DbLite;
-import me.sandlz.dblibrary.DbManager;
+import me.sandlz.dblite.DbLite;
+import me.sandlz.dblite.DbManager;
 
 /**
  * Created by liuzhu on 2016/11/16.

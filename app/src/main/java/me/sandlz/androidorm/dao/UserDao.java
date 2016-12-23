@@ -3,7 +3,7 @@ package me.sandlz.androidorm.dao;
 import java.util.List;
 
 import me.sandlz.androidorm.entity.User;
-import me.sandlz.dblibrary.db.ex.DbException;
+import me.sandlz.dblite.db.ex.DbException;
 
 /**
  * Created by liuzhu on 2016/12/23.
