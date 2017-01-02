@@ -98,7 +98,9 @@ DBHelper2.init(this);
 
 最好设置主键，提高操作效率.
 
-### 增
+### 基础
+
+#### 增
 
 ```
 public void addUser(User user) {
@@ -125,7 +127,7 @@ public void addUser(User user) {
     
 ```
 
-### 删
+#### 删
 
 ```
 public void deleteUser(User user) {
@@ -160,7 +162,7 @@ public void deleteUser(User user) {
     }
     
 ```
-### 改
+#### 改
 
 ```
 public void updateUser(User user) {
@@ -187,7 +189,7 @@ public void updateUser(User user) {
     }
     
 ```
-### 查
+#### 查
 
 ```
 public User queryUser(String userId) {
@@ -221,5 +223,6 @@ public User queryUser(String userId) {
     
 ```
 
+### 高级
 
 
